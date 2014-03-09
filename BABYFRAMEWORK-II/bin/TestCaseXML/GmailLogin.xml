@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<writers>
+
+  <TC>
+    <Active>NO</Active>
+    <TestCaseID>0000001</TestCaseID>
+    <TestSteps>start,gmailLogin,stop</TestSteps>
+  </TC>
+  
+  <TC>
+    <Active>YES</Active>
+    <TestCaseID>0000002</TestCaseID>
+    <TestSteps>start,gmailLoginInvalid,stop</TestSteps>
+  </TC>
+
+</writers>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<writers>
+
+  <TC>
+    <Active>YES</Active>
+    <TestCaseID>TestCase 00011</TestCaseID>
+    <TestSteps>start,youtubenavigation,stop</TestSteps>
+  </TC>
+  
+    <TC>
+    <Active>YES</Active>
+    <TestCaseID>TestCase 00012</TestCaseID>
+    <TestSteps>start,youtubenavigation,stop</TestSteps>
+  </TC>
+  
+</writers>

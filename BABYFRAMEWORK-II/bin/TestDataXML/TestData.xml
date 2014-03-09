@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<writers>
+
+<!-- Element testData0=testData(0);-->
+  <TestData>
+    <username>seleniumbabyframeworktestmail</username>
+    <password>babyframework</password>
+  </TestData>
+  
+ <!-- Element testData1=testData(1);--> 
+  <TestData>
+    <username>a</username>
+    <password>e</password>
+    <ErrorMessge>The email or password you entered is incorrect. ?</ErrorMessge>
+  </TestData>
+  
+  
+   <!-- Element testData2=testData(2);--> 
+  <TestData>
+    <youtubeinput>selenium</youtubeinput>
+  </TestData>
+  
+</writers>

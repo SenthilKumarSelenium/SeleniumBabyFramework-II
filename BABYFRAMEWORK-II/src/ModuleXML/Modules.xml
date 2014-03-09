@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<writers>
+  <Module>
+    <Active>NO</Active>
+    <ModuleName>GmailLogin</ModuleName>
+  </Module>
+  
+    <Module>
+    <Active>YES</Active>
+    <ModuleName>youtube</ModuleName>
+  </Module>
+
+</writers>
