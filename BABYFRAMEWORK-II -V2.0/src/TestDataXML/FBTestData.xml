@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<writers>
+
+<!-- 0 Test Data Set  -->
+  <TestData>
+    <username>testemail</username>
+    <password>testPassword</password>
+  </TestData>
+  
+<!-- 1 Test Data Set  -->
+  <TestData>
+    <FirstName>Senthil</FirstName>
+    <LastName>Kumar</LastName>
+    <mailid>test@test.com</mailid>
+    <Reentermailid>test@test.com</Reentermailid>
+    <Password>PASSWORD</Password>
+  </TestData>
+  
+<!-- 2 Test Data Set  -->
+  <TestData>
+    <FirstName>Senthil</FirstName>
+    <LastName>Kumar</LastName>
+    <mailid>test@test.com</mailid>
+    <Reentermailid>test@test.com</Reentermailid>
+    <Password>PASSWORD</Password>
+    <month>Jan</month>
+    <day>1</day>
+    <year>1994</year>
+  </TestData>
+  
+  
+</writers>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<writers>
+
+  <TestData>
+    <username>pskumartesting</username>
+    <password>roseroserose</password>
+  </TestData>
+  
+  <TestData>
+    <username>pskumartesting</username>
+    <password>roseroserose</password>
+  </TestData>
+  
+  <TestData>
+    <username>pskumartesting</username>
+    <password>roseroserose</password>
+  </TestData>
+</writers>

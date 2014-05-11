@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<writers>
+
+  <TC>
+    <Active>YES</Active>
+    <TestCaseID>Twitter-0000001</TestCaseID>
+    <TCSET>1</TCSET>
+    <TestSteps>start,twitterLogin,stop</TestSteps>
+  </TC>
+   
+
+  
+</writers>

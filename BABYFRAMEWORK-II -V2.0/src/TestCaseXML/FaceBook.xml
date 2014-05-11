@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<writers>
+
+  <TC>
+    <Active>YES</Active>
+    <TestCaseID>FaceBook_Login_0000001</TestCaseID>
+    <TCSET>0</TCSET>
+    <TestSteps>start,fbLogin,stop</TestSteps>
+  </TC>
+   
+   <TC>
+    <Active>YES</Active>
+    <TestCaseID>FaceBook_Registration_0000002</TestCaseID>
+    <TCSET>1</TCSET>
+    <TestSteps>start,fbRegistration,stop</TestSteps>
+  </TC> 
+   
+   <TC>
+    <Active>YES</Active>
+    <TestCaseID>FaceBook_Registration_Drop_0000003</TestCaseID>
+    <TCSET>2</TCSET>
+    <TestSteps>start,fbRegistrationDrop,stop</TestSteps>
+  </TC> 
+   
+  <TC>
+    <Active>YES</Active>
+    <TestCaseID>FaceBook_Registration_FAIL_Drop_0000004</TestCaseID>
+    <TCSET>2</TCSET>
+    <TestSteps>start,fbRegistrationDropFail,stop</TestSteps>
+  </TC> 
+ 
+</writers>

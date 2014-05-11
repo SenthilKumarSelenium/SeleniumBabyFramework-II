@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<writers>
+
+  <TC>
+    <Active>YES</Active>
+    <TestCaseID>HDFC-0000001</TestCaseID>
+    <TCSET>0</TCSET>
+    <TestSteps>start,HDFCPLoginChildWindow,stop</TestSteps>
+  </TC>
+   
+   <TC>
+    <Active>YES</Active>
+    <TestCaseID>HDFCMouseMove-0000002</TestCaseID>
+    <TCSET>0</TCSET>
+    <TestSteps>start,hdfcPMouseMove,stop</TestSteps>
+  </TC>
+  
+</writers>
